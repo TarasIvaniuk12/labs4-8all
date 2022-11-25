@@ -1,0 +1,4 @@
+лист. 15, 2022 12:58:19 ПП main.MenuManaging mainMenuText
+INFO: Print main menu
+лист. 15, 2022 12:58:25 ПП main.MenuManaging deviceMenuText
+INFO: Print device menu
